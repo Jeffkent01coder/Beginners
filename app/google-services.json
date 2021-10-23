@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "32269005619",
+    "project_id": "beginners-18575",
+    "storage_bucket": "beginners-18575.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32269005619:android:cf14d3c467873311f24446",
+        "android_client_info": {
+          "package_name": "com.steve.beginners"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32269005619-iva3f3k2592ar633kq10ujl56a5e6ib7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc8g8cAA5A9d4yiIITfNVNSoQkvtdOtyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32269005619-iva3f3k2592ar633kq10ujl56a5e6ib7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
